@@ -1,18 +1,17 @@
 <div align="center" width="50">
-<img src="images/name_banner.svg" alt="I'm Hadeer Abd Elaziz" width="60%"/> <br>
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/your-username" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/your-username" alt="Workspace" width="40%"/><br>
 </div>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-username&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![LinkedIn](https://img.shields.io/badge/Hadeer%20Abd%20Elaziz-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/Hadeer-grey?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
 
 <hr></hr>
 
 ### 👋 About Me
 
-I'm **Hadeer Abd Elaziz**, a dedicated **Full-Stack PHP Developer** specializing in designing, developing, and deploying scalable web applications. My expertise spans both front-end and back-end technologies, including **Laravel** and **Angular**. I am passionate about crafting seamless user experiences and delivering high-quality solutions that drive business success. My strong problem-solving skills, combined with a commitment to writing clean and maintainable code, enable me to tackle complex challenges efficiently. I thrive in collaborative environments and am always eager to learn new technologies and methodologies to stay ahead in the fast-paced tech industry.
+I'm **Hadeer**, a dedicated **Full-Stack PHP Developer** specializing in designing, developing, and deploying scalable web applications. My expertise spans both front-end and back-end technologies, including **Laravel** and **Angular**. I am passionate about crafting seamless user experiences and delivering high-quality solutions that drive business success. My strong problem-solving skills, combined with a commitment to writing clean and maintainable code, enable me to tackle complex challenges efficiently. I thrive in collaborative environments and am always eager to learn new technologies and methodologies to stay ahead in the fast-paced tech industry.
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
